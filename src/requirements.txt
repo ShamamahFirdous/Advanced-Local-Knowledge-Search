@@ -1,0 +1,11 @@
+langchain
+langchain-community
+sentence-transformers
+torch
+faiss-cpu
+pypdf
+pymupdf
+docx2txt
+pandas
+tqdm
+streamlit

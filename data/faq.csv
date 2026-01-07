@@ -1,0 +1,6 @@
+question,answer
+What is RAG?,RAG stands for Retrieval-Augmented Generation and combines document retrieval with language models.
+Why use embeddings?,Embeddings allow text to be represented as vectors for semantic similarity search.
+What is FAISS?,FAISS is a library for efficient similarity search over vector embeddings.
+What is MMR?,MMR stands for Maximal Marginal Relevance and balances relevance with diversity in retrieval.
+What is metadata filtering?,Metadata filtering restricts retrieval to eligible documents before similarity search.
