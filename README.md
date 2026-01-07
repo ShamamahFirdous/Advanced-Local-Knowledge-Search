@@ -29,9 +29,6 @@ This project is designed to demonstrate **modern retrieval system design**, not 
 * 💻 **100% Local Execution**
   No API keys, no cloud services, no external LLM calls.
 
-* 🎨 **Polished UI**
-  Claude-inspired rust & beige theme built with Streamlit.
-
 ---
 
 ## 📂 Supported Document Types
@@ -144,19 +141,19 @@ Below are example screenshots demonstrating the system in action, including the 
 
 ### 🔍 Search Interface
 The main interface for asking questions over local documents.
-![Search Interface](assets/ui_home.png)
+![Search Interface](images/1.png)
 
 ---
 
 ### ✅ Answer Generation with Grounded Sources
 An example of a generated answer, clearly grounded in retrieved document chunks.
-![Answer Generation](assets/ui_answer.png)
+![Answer Generation](images/2.png)
 
 ---
 
 ### 📊 Retrieval Statistics & Confidence
 Displays retrieval metrics, reranking details, and confidence estimation for transparency.
-![Stats and Confidence](assets/ui_stats.png)
+![Stats and Confidence](images/3.png)
 
 ## 🧠 Why This Project Matters
 
